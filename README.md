@@ -29,3 +29,12 @@ S-99는 총 7개 카테고리, 98개 문항으로 구성되어 있습니다
     - 구현 클래스: kim.taewan.scala.ninetynine.q_list.Q02.scala
     - 단위 테스트: kim.taewan.scala.ninttynine.q_list.Q02_test.scala
 
+- **P03**: n번째 엘리먼트 반
+  - 예제 코드
+  ```scala
+  scala> nth(2, List(1, 1, 2, 3, 5, 8))
+  res0: Int = 2
+  ```
+  - mapping
+    - 구현 클래스: kim.taewan.scala.ninetynine.q_list.Q03.scala
+    - 단위 테스트: kim.taewan.scala.ninttynine.q_list.Q03_test.scala
