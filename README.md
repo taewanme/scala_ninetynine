@@ -23,4 +23,4 @@ res0: Int = 5
 ```
   - mapping
     - 구현 클래스: kim.taewan.scala.ninetynine.q_list.Q02.scala
-    - 단위 테스트: kim.taewan.scala.ninttynine.q_list.Q02_teest.scala
+    - 단위 테스트: kim.taewan.scala.ninttynine.q_list.Q02_test.scala
