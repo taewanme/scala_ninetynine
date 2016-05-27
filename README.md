@@ -2,6 +2,11 @@
 
 - 원본 URL: http://aperiodic.net/phil/scala/s-99/
 
+prolog 학습 자료로 대료적인 자료는 "P-99: Ninety-Nine Prolog Problems"입니다 [원문: "https://sites.google.com/site/prologsite/prolog-problems"]
+prolog의 연습문제를 scala 버전으로 변환한 것이 "S-99: Ninety-Nine Scala Problems"입니다.
+S-99는 총 7개 카테고리, 98개 문항으로 구성되어 있습니다
+
+
 ## List
 
 - P01 (*) 리스트의 마지막 엘리먼트 반환
